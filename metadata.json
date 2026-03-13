@@ -1,0 +1,7 @@
+{
+  "name": "Bharatbuisnessgpt",
+  "description": "AI-powered business analytics, forecasting, and strategy platform built for Indian enterprises.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
